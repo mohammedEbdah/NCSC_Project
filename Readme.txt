@@ -1,3 +1,5 @@
+NCSC project, build a vulnerable server and website, perform penetration testing, write a report on findings, and use Splunk for incident response and monitoring based on identified vulnerabilities.
+
 Apache Directory
 Path: project/apache
 Description: This directory contains a custom-installed version of the Apache HTTP Server. The installation for server testing
