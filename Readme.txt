@@ -1,4 +1,4 @@
-NCSC project, build a vulnerable server and website, perform penetration testing, write a report on findings, and use Splunk for incident response and monitoring based on identified vulnerabilities.
+As part of the NCSC project, we built a vulnerable server using an outdated server available online. We then deployed a vulnerable website by modifying a pre-existing website template. Afterward, we integrated the website with Splunk for monitoring and analysis. We conducted penetration testing on the website, documented our findings in a report, and utilized Splunk to make incident response reports.
 
 Apache Directory
 Path: project/apache
